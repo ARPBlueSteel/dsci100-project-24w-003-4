@@ -2,3 +2,4 @@
 Template project repository for DSCI-100
 
 Hannah was here
+Ethan was here
